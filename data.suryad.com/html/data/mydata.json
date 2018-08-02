@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "blog": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "blog": {
+      "1": "{\"title\":\"Example1\",\"description\":\"Very cool blog about cars\",\"author\":\"dantuluri\",\"imageURL\":\"https://files.suryad.com/api/containers/container1/download/gallery2.jpg\",\"date\":\"2018-07-19T02:32:41.572Z\",\"tags\":\"datascience\",\"path\":\"ex1\",\"id\":1}",
+      "2": "{\"title\":\"Example2\",\"description\":\"Very cool blog about cats\",\"author\":\"dantuluri\",\"imageURL\":\"https://files.suryad.com/api/containers/container1/download/gallery.jpg\",\"date\":\"2018-07-19T02:32:41.572Z\",\"tags\":\"not data science\",\"path\":\"ex2\",\"id\":2}"
+    }
+  }
+}

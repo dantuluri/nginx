@@ -1,0 +1,20 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "blog": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "blog": {
+      "2": "{\"title\":\"International Autonomous Robot Racing Challenge 2018\",\"description\":\"Machine Learning methods can surprisingly surpass traditional computationally expensive computer vision, path planning, and localization algorithms.\",\"author\":\"Surya Dantuluri\",\"imageURL\":\"https://i.imgur.com/JeORZWA.jpg\",\"date\":\"2018-07-22T17:47:31.892Z\",\"tags\":\"machine-learning research projects robotics lstm cnn dcnn\",\"path\":\"iarrc2018\",\"id\":2}"
+    }
+  }
+}
